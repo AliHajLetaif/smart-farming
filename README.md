@@ -19,8 +19,8 @@ Ce projet a pour but de développer une solution de smart farming utilisant des 
 
 Voici quelques exemples d'images montrant comment ce système de smart farming peut être utilisé dans la pratique :
 
-![capteur d'eau](images/water-sensor.jpg)
-![capteur de pluie](images/rain-sensor.jpg)
-![capteur ultrason](images/ultrasonic-sensor.jpg)
+![capteur d'eau](Images/water-sensor.jpg)
+![capteur de pluie](Images/rain-sensor.jpg)
+![capteur ultrason](Images/ultrasonic-sensor.jpg)
 
 
